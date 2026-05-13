@@ -16,7 +16,6 @@
 Estimated annual cost: **157.68 USD**
 
 ## Azure Pricing Calculator Screenshot
-Insert your completed Azure Pricing Calculator screenshot here.
 
 ![Azure Pricing Calculator Estimate](pricing-calculator-screenshot.png)
 
