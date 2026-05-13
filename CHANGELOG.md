@@ -2,20 +2,6 @@
 
 All notable changes to this project will be documented in this file.
 
-## [Unreleased]
-
-### Added
-- Pending
-
-### Changed
-- Pending
-
-### Fixed
-- Pending
-
-### Removed
-- Pending
-
 ---
 
 ## [2026-05-12] - Project Setup and Initial Azure Deployment
