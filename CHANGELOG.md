@@ -26,8 +26,19 @@ All notable changes to this project will be documented in this file.
 - [elyssaolivares] Added the cost estimate report in `cloud-computing/report/cost-estimate.md` with the Azure Pricing Calculator estimate and optimization notes.
 
 ### Changed
-
 ### Fixed
-
-
 ### Removed
+
+---
+
+## [2026-05-13] - Initializing the new github repository for the deliverables.
+
+### Added
+- [elyssaolivares] Added the Adding the README.md file.
+- [elyssaolivares] Uploaded the initial CHANGELOG.md file.
+- [elyssaolivares] Uploaded the deployment .md file and screenshots.
+- [elyssaolivares] Uploaded the applications' architectural diagram.
+- [elyssaolivares] Added the application deployments' report files.
+
+### Changed
+- [elyssaolivares] Edited the CHANGELOG.md format.
