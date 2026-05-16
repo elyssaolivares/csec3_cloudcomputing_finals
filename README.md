@@ -9,7 +9,7 @@ FIXIT (Faculty Issue eXchange and Information Tracker) is a cloud-deployed maint
 - **Francisca Louise Biares** - GitHub: `Francisca1728`
 
 ## Video Link
-- **Project Video**: [link]
+- **Project Video**: https://youtu.be/SuQEtXVzso4
 
 ## Demo URL
 - **Live Demo**: https://fixit-app-f9chftckcae4adhw.southeastasia-01.azurewebsites.net/
